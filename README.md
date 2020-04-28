@@ -1,5 +1,8 @@
 # landing-page
 
+![Build and Deploy](https://github.com/afuentes/landing-page/workflows/Build%20and%20Deploy/badge.svg)
+
+
 ## Project setup
 ```
 npm install
